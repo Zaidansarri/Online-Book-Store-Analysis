@@ -1,7 +1,9 @@
 # **Online Book Store - SQL Project**
 
-
 This project involves designing and executing SQL queries to analyze and manage data for an **Online Book Store**. The dataset includes information on books, customers, and orders, providing insights into sales, inventory, and customer behavior.
+
+## Acknowledgments
+This project was created using the data set provided and with guidance from [**SATISH DHAWALE YOUTUBE CHANNEL**](https://surl.li/paosrm). Check out their channel for more learning and insight.
 
 ## Key Features
 - **Retrieve Books by Genre**: Fetch books based on their genre (e.g., Fiction, Fantasy, etc.).
