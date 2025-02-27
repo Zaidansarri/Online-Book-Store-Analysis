@@ -47,7 +47,4 @@ This project involves designing and executing SQL queries to analyze and manage 
 4. Modify or extend queries as needed to gain further insights.
 
 ## Acknowledgment
-A special thanks to **Satish Dhawale** for an insightful SQL course that helped me build this project! 
-
-🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-🔗 **GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+A special thanks to **Satish Dhawale** for an insightful SQL course that helped me build this project!
