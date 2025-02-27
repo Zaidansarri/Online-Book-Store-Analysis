@@ -47,6 +47,3 @@ This project was created using the data set provided and with guidance from [**S
 2. Import the dataset into your SQL database.
 3. Run the queries in your preferred SQL environment.
 4. Modify or extend queries as needed to gain further insights.
-
-## Acknowledgment
-A special thanks to **Satish Dhawale** for an insightful SQL course that helped me build this project!
